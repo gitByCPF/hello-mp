@@ -10,8 +10,4 @@
             <result property="age" column="age" />
             <result property="email" column="email" />
     </resultMap>
-
-    <sql id="Base_Column_List">
-        id,name,age,email
-    </sql>
 </mapper>
